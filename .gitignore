@@ -1,0 +1,7 @@
+data/raw/*
+*.h5ad
+*.h5mu
+*.mtx
+*.loom
+__pycache__/
+.ipynb_checkpoints/
