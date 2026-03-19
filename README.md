@@ -5,6 +5,7 @@ This project integrates single-cell RNA-seq and ATAC-seq data to identify cell s
 
 ## Data
 10x Genomics PBMC multiome dataset
+https://www.10xgenomics.com/datasets/pbmc-from-a-healthy-donor-no-cell-sorting-10-k-1-standard-2-0-0
 
 ## Methods
 - RNA preprocessing (Scanpy)
