@@ -1,4 +1,5 @@
 data/raw/*
+data/
 *.h5ad
 *.h5mu
 *.mtx
